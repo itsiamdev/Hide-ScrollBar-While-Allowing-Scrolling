@@ -9,7 +9,7 @@ This web project showcases a clever technique to hide the scrollbar on web pages
 - 🌐 Cross-browser compatible
 
 ## Live Demo
-Check out the live demo here: [https://iam269.github.io/Hide-ScrollBar-While-Allowing-Scrolling/](https://iam269.github.io/Hide-ScrollBar-While-Allowing-Scrolling/) 🌐
+Check out the live demo here: [https://itsiamdev.github.io/Hide-ScrollBar-While-Allowing-Scrolling/](https://itsiamdev.github.io/Hide-ScrollBar-While-Allowing-Scrolling/) 🌐
 
 ## How It Works
 The project uses CSS tricks to hide the scrollbar visually while keeping the overflow behavior intact. Perfect for modern web design! 💡
